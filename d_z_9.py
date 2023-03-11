@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
+%matplotlib inline
 
 zp = np.array([35, 45, 190, 200, 40, 70, 54, 150, 120, 110])
 ks = np.array([401, 574, 874, 919, 459, 739, 653, 902, 746, 832])
